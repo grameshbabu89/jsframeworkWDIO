@@ -13,4 +13,4 @@ Feature: New user registration
 
     Examples:
       | Email                 | FirstName | LoginName | Password |
-      | wdiotesting7@test.com | TestUser  | Test0123  | Password |
+      | wdiotesting8@test.com | TestUser  | TestLast  | Password |

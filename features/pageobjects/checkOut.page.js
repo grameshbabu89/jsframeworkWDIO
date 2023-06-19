@@ -22,7 +22,6 @@ class CheckOutPage extends Page {
             const proText = await pText.toUpperCase();
             itemsList.push(proText);
             const status = await cartList.includes(proText);
-            console.log("proText->", proText)
             if(!status){
                 flag = false;
                 console.log(proText,  "item was NOT added into the Cart");                

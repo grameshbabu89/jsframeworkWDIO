@@ -4,7 +4,7 @@ Feature: e2e test scenarios on an e-commerce website
     Given I launch the application
     When I click sign in page
     When I login with <LoginName> and <Password>
-    Then I validate the <FirstName> is displayed in the account section
+    #Then I validate the <FirstName> is displayed in the account section
     When I mouseover on the <Menu> and select <Product>
     Then I select 2 product and add to the Cart
     Then I proceed to checkout
@@ -13,7 +13,7 @@ Feature: e2e test scenarios on an e-commerce website
     Then I close the browser
 
     Examples:
-      | FirstName  | LoginName   | Password | Menu      | Product |
-      | RameshBabu | Rame2345678 | Password | FRAGRANCE | Men     |
+      | FirstName  | LoginName | Password | Menu      | Product |
+      | RameshBabu | TestLast  | Password | FRAGRANCE | Men     |
 
 

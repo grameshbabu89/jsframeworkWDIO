@@ -11,4 +11,4 @@ Feature: Login and Logout
 
     Examples:
       | FirstName | LoginName | Password |
-      | Test1     | Test0123  | Password |
+      | TestUser  | TestLast  | Password |

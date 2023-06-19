@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Mon Jun 19 17:50:15 IST 2023","Mon Jun 19 17:50:23 IST 2023","8672","","Login and Logout","","","","As a user, I should be able to Login and Logout to the application",""
-"failed","Mon Jun 19 16:12:11 IST 2023","Mon Jun 19 16:12:36 IST 2023","24974","","e2e test scenarios on an e-commerce website","","","","As a registered user, I should be able to place an order.",""
-"broken","Mon Jun 19 16:11:19 IST 2023","Mon Jun 19 16:11:41 IST 2023","21879","","New user registration","","","","As a user, I should be able to register as a new customer",""
+"passed","Mon Jun 19 18:31:47 IST 2023","Mon Jun 19 18:31:58 IST 2023","10527","","Login and Logout","","","","As a user, I should be able to Login and Logout to the application",""
+"passed","Mon Jun 19 18:31:21 IST 2023","Mon Jun 19 18:31:37 IST 2023","16420","","New user registration","","","","As a user, I should be able to register as a new customer",""
+"passed","Mon Jun 19 18:32:08 IST 2023","Mon Jun 19 18:32:38 IST 2023","29448","","e2e test scenarios on an e-commerce website","","","","As a registered user, I should be able to place an order.",""
