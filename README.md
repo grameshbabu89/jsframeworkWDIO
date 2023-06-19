@@ -80,6 +80,8 @@ An Allure report will be generated after execution is completed.
     ./allure-report/index.html
     
 
+<img width="940" alt="image" src="https://github.com/grameshbabu89/jsframeworkWDIO/assets/21173436/30b32656-ff26-4120-8e0a-c2afed189a9b">
+<img width="944" alt="image" src="https://github.com/grameshbabu89/jsframeworkWDIO/assets/21173436/5c617c38-72bc-4ab3-883b-9a67896bf2ea">
 
 
 
